@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\Hacheck\Hacheck\bin\Debug\Hacheck.exe.config
+C:\Users\USER\Documents\Hacheck\Hacheck\obj\Debug\Hacheck.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Hacheck\Hacheck\obj\Debug\Hacheck.Form1.resources
+C:\Users\USER\Documents\Hacheck\Hacheck\obj\Debug\Hacheck.Properties.Resources.resources
+C:\Users\USER\Documents\Hacheck\Hacheck\obj\Debug\Hacheck.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Hacheck\Hacheck\bin\Debug\Hacheck.exe
+C:\Users\USER\Documents\Hacheck\Hacheck\bin\Debug\Hacheck.pdb
+C:\Users\USER\Documents\Hacheck\Hacheck\obj\Debug\Hacheck.exe
+C:\Users\USER\Documents\Hacheck\Hacheck\obj\Debug\Hacheck.pdb
